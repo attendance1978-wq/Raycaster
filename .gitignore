@@ -1,0 +1,6 @@
+echo # Compiled Java files > .gitignore
+echo *.class >> .gitignore
+echo out/ >> .gitignore
+echo *.log >> .gitignore
+echo .DS_Store >> .gitignore
+echo Thumbs.db >> .gitignore
