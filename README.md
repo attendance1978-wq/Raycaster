@@ -103,8 +103,8 @@ RaycasterEngine/
 
 #### 1. Clone or Download
 ```bash
-git clone https://github.com/yourusername/raycaster-engine.git
-cd raycaster-engine
+git clone https://github.com/attendance1978-wq/Raycaster.git
+cd Raycaster
 ```
 
 #### 2. Add Your Texture
