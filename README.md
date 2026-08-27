@@ -231,10 +231,10 @@ Solution:
 See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
 
 ## 🤝 Contributing
-We welcome contributions! See [CONTRIBUTORS.md](CONTRIBUTORS.md) for guidelines.
+We welcome contributions! See [CONTRIBUTORS.md](contribution.md) for guidelines.
 
 ## 📄 License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](license) file for details.
 
 ## 🙏 Acknowledgments
 - **Lode Vandevenne** - Original raycasting tutorial
