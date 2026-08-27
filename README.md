@@ -228,7 +228,7 @@ Solution:
 ```
 
 ## 🔄 Version History
-See [CHANGELOG.md](CHANGELOG.md) for detailed version history.
+See [CHANGELOG.md](changelog.md) for detailed version history.
 
 ## 🤝 Contributing
 We welcome contributions! See [CONTRIBUTORS.md](contribution.md) for guidelines.
